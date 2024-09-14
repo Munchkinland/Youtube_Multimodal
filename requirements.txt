@@ -1,0 +1,6 @@
+Flask
+youtube-dl
+SpeechRecognition
+openai
+yt-dlp
+whisper

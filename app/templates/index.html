@@ -1,0 +1,17 @@
+{% extends "base.html" %}
+
+{% block content %}
+<div class="container">
+    <h1>YouTube Q&A</h1>
+    <div id="transcribe-section">
+        <input type="text" id="youtube-url" placeholder="Enter YouTube URL">
+        <button id="transcribe-btn">Transcribe</button>
+    </div>
+    <div id="transcript"></div>
+    <div id="qa-section" style="display: none;">
+        <input type="text" id="question" placeholder="Ask a question about the video">
+        <button id="ask-btn">Ask</button>
+    </div>
+    <div id="answer"></div>
+</div>
+{% endblock %}
