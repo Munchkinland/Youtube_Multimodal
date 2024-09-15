@@ -6,7 +6,7 @@ Este proyecto desarrolla una aplicación Flask que permite descargar audio de vi
 
 ## Características
 
-- Descarga de audio de videos de YouTube.
+- Extrae audio de videos de YouTube.
 - Transcripción de audio utilizando el modelo Whisper.
 - Respuestas a preguntas basadas en el contenido transcrito utilizando la API de OpenAI.
 
