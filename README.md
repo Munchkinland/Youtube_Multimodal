@@ -60,8 +60,9 @@ Abre `http://127.0.0.1:5000` en tu navegador.
 
 3. **Descarga y transcribe un video de YouTube:**
 
-   - Proporciona la URL del video de YouTube en el campo correspondiente y haz clic en "Transcribir".
-   - Una vez completada la transcripción, podrás hacer preguntas sobre el contenido.
+Proporciona la URL del video de YouTube en el campo correspondiente y haz clic en "Transcribir".
+
+Una vez completada la transcripción, podrás hacer preguntas sobre el contenido.
 
 ## Contribuciones
 
